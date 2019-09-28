@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+<H1>Cool Stats </h1>
+
+1. *Pizza* Lover 100%
+2. *Burger Eater* 80%
